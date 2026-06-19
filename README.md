@@ -62,7 +62,7 @@ AI-Powered Inventory Management Platform built with Streamlit, SQLite, SQLAlchem
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/InventoryIQ.git
+git clonehttps://github.com/aniketjain2023a-ops/InventoryIQ.git
 cd InventoryIQ
 
 python -m venv venv
